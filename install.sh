@@ -1,0 +1,10 @@
+apt-get update -y
+apt-get upgrade -y
+apt-get install python
+apt-get install python2
+apt-get install python3
+apt-get install python-pip
+apt-get install python3-pip
+pip install colorama
+pip install  os
+pip3 install os
